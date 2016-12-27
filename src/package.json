@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1",
+    "slack-webhook": "^1.0.0"
+  }
+}
